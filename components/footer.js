@@ -20,7 +20,7 @@ export default function Footer() {
               href={`https://github.com/Netlify-Moneytronic`}
               className="mx-3 font-bold hover:underline"
             >
-              View this on GitHub
+              View on GitHub
             </a>
           </div>
         </div>
