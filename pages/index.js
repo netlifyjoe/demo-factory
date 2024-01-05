@@ -11,7 +11,7 @@ export default function Index({ allExperience, profile }) {
     <>
       <Layout>
         <Head>
-          <title>{profile.personal.name}'s Portfolio</title>
+          <title>{profile.personal.name}'s Site</title>
         </Head>
         <Container>
           <Intro profile={profile} />
