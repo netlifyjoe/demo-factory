@@ -2,7 +2,7 @@
 
 This is the repository from where you will begin the Sales Hackathon Project.
 
-Have Fun!!
+Have Fun!!!
 
 ## View the demo site
 [Click here to explore the demo site that uses this repository as its source code.](https://andrea-next-contentful-demo.netlify.app/)
