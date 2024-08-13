@@ -44,6 +44,9 @@ The one-click deploy allows you to connect Netlify to your GitHub account to clo
 
 [![Deploy to Netlify button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Netlify-Moneytronic/SalesHackathon)
 
+[![Deploy to Netlify button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlifyjoe/demo-factory)
+
+
 By clicking the above button, you will be navigated to the Netlify’s direct deploy page with the project’s repository passed as parameters in the url. Click the **Connect to GitHub** button, name your repository and enter in this your Contentful Values as input as follows: 
 
 Once your site is live, navigate to Contentful to see that the content model is already completed. 
